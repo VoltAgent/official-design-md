@@ -69,7 +69,7 @@ Found an official DESIGN.md in the wild? We'd love to list it.
 Before opening a PR, please [open an issue](https://github.com/VoltAgent/official-design-md/issues) first to discuss your idea and get feedback from maintainers.
 
 ## License
-
+ 
 MIT License - see [LICENSE](LICENSE)
 
 This repository is a curated index of officially published DESIGN.md documents. All linked files remain the property of their respective owners. We do not host or claim ownership of any linked content.
