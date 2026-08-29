@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md-7-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md-8-10b981?style=classic)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
 </div>
@@ -43,6 +43,7 @@ Looking for ready-to-use DESIGN.md files extracted from real websites? Check out
 
 ## Collection
 
+- [**Ant Design**](https://ant.design/design.md) - Enterprise-grade React UI system from Ant Group. Signature blue #1677FF, full semantic color palette
 - [**Atlassian**](https://atlassian.design/DESIGN.md) - Maker of Jira and Confluence. Atlassian Design System — structured blue palette, enterprise clarity
 - [**Clerk**](https://clerk.com/design.md) - Auth and user management platform. Signature purple, brand system written for humans and AI agents
 - [**Mintlify**](https://mintlify.com/design.md) - Documentation platform. Token-driven design system, clean and reading-optimized
